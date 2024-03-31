@@ -1,6 +1,5 @@
 # Zomato-Dataset-Exploratory-Data-analysis
 
-Improve our domain Knowledge about Zomato
 
 Lets Talks about Zomato and Familiar more about it:
 Zomato has Launched in 2010, its technology platform connects customers, restaurant partners and delivery partners, serving their multiple needs.
